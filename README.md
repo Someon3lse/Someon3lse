@@ -14,7 +14,7 @@ My proyects actually are:
 + The Piculator, a Pi calculator with the Viète Formula.
 + And More!!
 + 
-# For developers... In what codig languages you are going to make your apps?
+# For developers... In what coding languages you are going to make your apps?
 
 I know C++ with Qt, Java (with Swing), a bit of QML and i'm learning Zig.
 
