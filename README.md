@@ -11,7 +11,6 @@ A bit of everything!!
 My proyects actually are:
 + Some Stupid Captcha's Game, because we need to check if you are a robot with millimeter accuracy. Are you a robot?
 + Qubix, a game about blue cubes and... more cubes.
-+ The Piculator, a Pi calculator with the Viète Formula.
 + And More!!
   
 # For developers... In what coding languages you are going to make your apps?
