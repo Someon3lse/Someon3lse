@@ -10,8 +10,7 @@ I am Someon3lse, programming fan, and a inveterate reader.
 A bit of everything!!
 My proyects actually are:
 + Some Stupid Captcha's Game, because we need to check if you are a robot with millimeter accuracy. Are you a robot?
-+ Qubix, a game about blue cubes and... more cubes.
-+ And More!!
++ I'm only a person. I can't do more things both
   
 # For developers... In what coding languages you are going to make your apps?
 
